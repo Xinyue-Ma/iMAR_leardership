@@ -30,7 +30,7 @@ search_query_link = 'site:linkedin.com/in/ AND "python developer" AND "London"'
 file_name = 'results_file.csv'
 # login credentials
 linkedin_username = '1143183660@qq.com'
-linkedin_password = '62946983'
+linkedin_password = '********'
 
 
 # Function call extracting title and linkedin profile iteratively
